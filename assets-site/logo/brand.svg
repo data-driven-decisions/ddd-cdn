@@ -53,13 +53,15 @@
         </style>
   </defs>
   <text
+     transform="scale(0.76120219,1.3137114)"
      id="text889"
-     y="30.006142"
-     x="27.727194"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#eee700;fill-opacity:1;stroke:none;"
+     y="20.269581"
+     x="0.7247799"
+     style="font-style:normal;font-weight:normal;font-size:18.5619px;line-height:1.25;font-family:sans-serif;fill:#eee7f4;fill-opacity:1;stroke:none;stroke-width:1.54683;"
      xml:space="preserve"><tspan
-       y="30.006142"
-       x="27.727194"
+       style="stroke-width:1.54683;fill:#eee7f4;fill-opacity:1;"
+       y="20.269581"
+       x="0.7247799"
        id="tspan887"
-       sodipodi:role="line">ajit</tspan></text>
+       sodipodi:role="line">Business Analytics</tspan></text>
 </svg>
